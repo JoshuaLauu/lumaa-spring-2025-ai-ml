@@ -19,7 +19,7 @@ Ensure you have:
 ### 1. **Clone the Repository**
 **Open your terminal (CMD on Windows, Terminal on Mac/Linux) and run:**
 ```sh
-git clone https://github.com/JoshuaLauu/lumaa-spring-2025-ai-ml.git
+git clone -b master --single-branch https://github.com/JoshuaLauu/lumaa-spring-2025-ai-ml.git
 cd lumaa-spring-2025-ai-ml
 ```
 This downloads the entire source code from GitHub to your computer.
