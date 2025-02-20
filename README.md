@@ -65,4 +65,7 @@ Top Recommendations:
 ## Future Improvements
 - **Use BM25 instead of cosine similarity** (better ranking for text-based search)  
 - **Expand to Hybrid Filtering** (combine content-based & collaborative filtering)  
-- **Improve dataset filtering** (e.g., allow filtering by release year, director, etc.) 
+- **Improve dataset filtering** (e.g., allow filtering by release year, director, etc.)
+
+## Salary Expetation
+$2400/month ($30/hr)
