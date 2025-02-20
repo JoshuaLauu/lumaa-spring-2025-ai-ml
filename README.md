@@ -3,9 +3,9 @@
 **Deadline**: Sunday, Feb 23th 11:59 pm PST
 
 ---
-#🚀 Please find my submission at the master branch, thanks
+# 🚀Please find my submission at the master branch, thanks
 
----
+
 ## Overview
 
 Build a **content-based recommendation system** that, given a **short text description** of a user’s preferences, suggests **similar items** (e.g., movies) from a small dataset. This challenge should take about **3 hours**, so keep your solution **simple** yet **functional**.
