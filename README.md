@@ -3,7 +3,7 @@
 **Deadline**: Sunday, Feb 23th 11:59 pm PST
 
 ---
-## Please find my submmision at the **master** branch, thanks
+## Please find my submission at the master branch, thanks
 
 ---
 ## Overview
