@@ -18,8 +18,8 @@ Ensure you have:
 
 ### 1. **Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/repository-name.git
-cd repository-name
+git clone https://github.com/JoshuaLauu/lumaa-spring-2025-ai-ml.git
+cd lumaa-spring-2025-ai-ml
 ```
 ### 2. **Create a Virtual Environment & Install Dependencies**
 ```sh
@@ -35,9 +35,9 @@ Run the recommendation system using:
 python src/recommend.py "I love thrilling action movies set in space, with a comedic twist."
 ```
 or interactive mode:
-
-`python src/recommend.py`
-
+```sh
+python src/recommend.py`
+```
 Then, enter your preferences manually.
 
 ## Example Output
