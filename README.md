@@ -31,8 +31,6 @@ The `cd` command lets you move into the project directory for the next command f
 pip install -r requirements.txt
 ```
 This installs all the required Python libraries 
-### 3. **Download & Place the Dataset**
-Ensure `tmdb_5000_movies.csv` is placed in the `data/` directory.
 
 ## How to Run
 Run the recommendation system using:
