@@ -44,7 +44,7 @@ Then, enter your preferences manually (e.g., "I like action movies set in space"
 ## Example Output
 ### After running the recommendation system, the output will look like this:
 
-Enter your preferences: e.g., "I like action movies set in space"
+Enter your preferences: I like action movies set in space
 
 Top Recommendations:
 
