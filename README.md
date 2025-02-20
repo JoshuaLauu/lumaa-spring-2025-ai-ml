@@ -31,9 +31,9 @@ Ensure `tmdb_5000_movies.csv` is placed in the `data/` directory.
 
 ## How to Run
 Run the recommendation system using:
-
-`python src/recommend.py "I love thrilling action movies set in space, with a comedic twist."`
-
+```sh
+python src/recommend.py "I love thrilling action movies set in space, with a comedic twist."
+```
 or interactive mode:
 
 `python src/recommend.py`
