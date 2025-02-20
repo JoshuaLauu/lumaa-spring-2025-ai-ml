@@ -3,7 +3,7 @@
 **Deadline**: Sunday, Feb 23th 11:59 pm PST
 
 ---
-# <span style="color:red">Please find my submission at the master branch, thanks</span>
+> **🚀 Please find my submission at the master branch, thanks**
 
 
 ## Overview
