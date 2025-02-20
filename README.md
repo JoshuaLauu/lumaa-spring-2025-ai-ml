@@ -63,10 +63,8 @@ Top Recommendations:
 ✔ **The higher the score, the more relevant the recommendation.**  
 ✔ **Genres are displayed to help users understand the movie themes.**  
 
----
-## Future Improvements
 
-### **Possible Improvements**
+## Future Improvements
 - **Use BM25 instead of cosine similarity** (better ranking for text-based search)  
 - **Expand to Hybrid Filtering** (combine content-based & collaborative filtering)  
 - **Improve dataset filtering** (e.g., allow filtering by release year, director, etc.) 
